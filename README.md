@@ -1,1 +1,6 @@
-I wasn't able to put the Unity files in a separate Q3 folder, but the Q2 code files are in their own Q2 folder so everything outside of it is for the Unity project
+## README
+# Q2
+The Question 2 folder contains code for Q2 which fills out the Kalman filter code provided by the instructors. The two files can simply be ran as-is and the corresponding Kalman filter output plots will appear.
+
+# Q3
+The Roll A Ball game is the rest of the repository as I wasn't able to put the Unity files in a separate Q3 folder. 
